@@ -1,12 +1,15 @@
 // ==UserScript==
-// @name         Copy KaTeX Formula to Markdown
+// @name         Copy ChatGPT KaTeX Formula to Markdown
 // @namespace    http://github.com/PluginsKers
-// @version      1.4
+// @version      1.4.1
 // @description  Add a copy interaction to KaTeX formulas to copy them as Markdown LaTeX format, with enhanced user interaction and dynamic color scheme support
 // @author       PluginsKers
 // @match        https://chat.openai.com/*
 // @match        https://chatgpt.com/*
+// @license      MIT
 // @grant        none
+// @downloadURL https://update.greasyfork.org/scripts/501013/Copy%20ChatGPT%20KaTeX%20Formula%20to%20Markdown.user.js
+// @updateURL https://update.greasyfork.org/scripts/501013/Copy%20ChatGPT%20KaTeX%20Formula%20to%20Markdown.meta.js
 // ==/UserScript==
 
 (function() {
